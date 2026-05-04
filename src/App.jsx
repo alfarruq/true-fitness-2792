@@ -1,12 +1,13 @@
 
 import './App.css'
+import OpenClub from './pages/OpenClub'
 
 function App() {
 
 
   return (
     <>
-  <h2>omad</h2>
+      <OpenClub />
     </>
   )
 }
